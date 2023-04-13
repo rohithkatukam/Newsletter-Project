@@ -2,9 +2,9 @@
 
 # ✨  Newsletter-Project ✨
 
-This is a web based application developed for clients who wants to 
+###This is a web based application developed for clients who wants to save the iformation of the Subscribers who signed up!.
 
-### This web based health application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+
 
 
 ## Features and Functionalities 😃
