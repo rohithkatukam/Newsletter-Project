@@ -30,10 +30,11 @@
 
 ## Tech Stack 💻
 
-Frontend
+### Frontend
 - HTML
 - CSS
 - Bootstrap
 - JavaScript
+### Backend
 - Nodejs
 - Expressjs
