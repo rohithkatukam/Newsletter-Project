@@ -2,7 +2,7 @@
 
 # ✨  Newsletter-Project ✨
 
-###This is a web based application developed for clients who wants to save the iformation of the Subscribers who signed up!.
+### This is a web based application developed for clients who wants to save the iformation of the Subscribers who signed up!.
 
 
 
