@@ -35,6 +35,5 @@ Frontend
 - CSS
 - Bootstrap
 - JavaScript
-Backend
 - Nodejs
 - Expressjs
